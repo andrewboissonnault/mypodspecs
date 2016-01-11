@@ -1,16 +1,16 @@
 {
-  "name": "Tesseract-wrapper",
+  "name": "VENCalculatorInputView-DecimalFix",
   "version": "1.0",
   "platforms": {
     "ios": null
   },
-  "summary": "Obj-C wrapper for Tesseract lib.",
-  "description": "Tesseract-ios is an Objective-C wrapper for Tesseract OCR.",
-  "homepage": "https://github.com/ldiqual/tesseract-ios",
-  "authors": "ldiqual",
+  "summary": "VENCalculatorInputView-DecimalFix",
+  "description": "VENCalculatorInputView-DecimalFix",
+  "homepage": "https://github.com/andrewboissonnault/VENCalculatorInputView",
+  "authors": "venmo",
   "source": {
-    "git": "https://github.com/ldiqual/tesseract-ios.git",
-    "commit": "cb0eba80a98a29d71f0513f1abec6dadf1eabf63"
+    "git": "https://github.com/andrewboissonnault/VENCalculatorInputView.git",
+    "commit": "b35837f86007df7f7a97cc42839ce0b421746146"
   },
   "license": {
     "type": "MIT",
