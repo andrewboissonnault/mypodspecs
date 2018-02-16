@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '5.0'
   s.ios.deployment_target = '5.0'
   s.source       = { :git => "https://github.com/andrewboissonnault/VENCalculatorInputView.git",
-                     :tag => "v#{s.version}"
+                     :tag => "v1.0-DecimalFix"
   }
   s.source_files = 'VENCalculatorInputView/**/*.{h,m}'
   s.resources    = ["VENCalculatorInputView/**/*.{xib,png}"]
